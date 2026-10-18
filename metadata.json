@@ -1,0 +1,6 @@
+{
+  "name": "Apex EV Expo 3D Studio",
+  "description": "Interactive 3D auto expo display space for an EV Trike on an angled presentation deck with modular lightweight framing, LED focus spotlights, and multimedia tech screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
